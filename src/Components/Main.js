@@ -6,13 +6,13 @@ import MemberCard from "./MemberCard";
 import ButtonGrid from "./ButtonGrid";
 
 const items = [
-  { name: "Item 1", isChecked: false },
-  { name: "Item 2", isChecked: true },
-  { name: "Item 3", isChecked: false },
-  { name: "Item 4", isChecked: true },
-  { name: "Item 5", isChecked: false },
-  { name: "Item 6", isChecked: true },
-  { name: "Item 7", isChecked: true },
+  { name: "Coroline Bloeme", isChecked: false },
+  { name: "Sun Jun", isChecked: true },
+  { name: "Song Bao", isChecked: false },
+  { name: "Olivia Arribas", isChecked: true },
+  { name: "Bonginkosi Mdlodlana", isChecked: false },
+  { name: "Arina Belomestnykh", isChecked: true },
+  { name: "Jacqueline Likoki", isChecked: true },
 ];
 
 const Main = () => {
