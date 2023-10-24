@@ -7,6 +7,7 @@ import "./MemberCard.css";
 const MemberCard = ({ item }) => {
   const iconClassName = item.isChecked ? "icon-green" : "icon-gray";
   const textClassName = item.isChecked ? "icon-black" : "icon-gray";
+
   return (
     <div className="Card-container">
       <div className={`Icon-and-Name-Container ${textClassName}`}>

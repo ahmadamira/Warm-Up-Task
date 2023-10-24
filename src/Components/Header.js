@@ -1,9 +1,10 @@
 import React from "react";
 import "./Header.css";
+
 const Header = () => {
   return (
     <div className="Container">
-      <p className="HeaderText">Add mempers to Front-end development team</p>
+      <p className="HeaderText">Add members to Front-end development team</p>
     </div>
   );
 };

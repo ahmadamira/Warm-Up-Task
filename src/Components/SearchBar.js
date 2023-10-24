@@ -6,7 +6,7 @@ const SearchBar = () => {
   return (
     <div className="search-bar">
       <i className="fa fa-search" />{" "}
-      <input type="text" placeholder="Find members" />
+      <input type="search" placeholder="Find members" />
     </div>
   );
 };
